@@ -1,6 +1,4 @@
-<div align="center" id="top">
-  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Banner" />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Ganna Khaled</h1>
 <h3 align="center">
