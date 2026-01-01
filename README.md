@@ -83,11 +83,11 @@ Always learning, always improving, and always building impactful projects.
 
 <h2 id="contact">📫 Contact Me</h2>
 
-<p>
-  <a href="https://github.com/your-username">
+<p>https://github.com/Gannakhaled22
+  <a href="">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="www.linkedin.com/in/ganna-khaled-229293259">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
