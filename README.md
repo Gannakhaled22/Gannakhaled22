@@ -19,7 +19,7 @@ Machine Learning • Deep Learning • Computer Vision
 
 <hr/>
 
-<h2 id="about">🚀 About Me</h2>
+<h2 id="about">About Me👩🏻‍💻</h2>
 
 <p>
 I am <b>Ganna Khaled</b>, a passionate <b>AI Engineer</b> with hands-on experience in
