@@ -21,11 +21,7 @@ Machine Learning • Deep Learning • Computer Vision
 
 <h2 id="about">About Me👩🏻‍💻</h2>
 
-<p>
-I am <b>Ganna Khaled</b>, a passionate <b>AI Engineer</b> with hands-on experience in
-<b>Machine Learning, Deep Learning, and Computer Vision</b>, alongside strong skills
-in <b>Front-End Development using React</b>.
-</p>
+>
 
 <p>
 I enjoy building real-world systems that combine <b>intelligent AI models</b> with
