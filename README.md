@@ -1,70 +1,104 @@
-
-
-<div align="center">
-  <h1>Ganna Khaled</h1>
-  <h3>AI Engineer | Front-End Developer (React) | Machine & Deep Learning | Computer Vision</h3>
+<div align="center" id="top">
+  <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Banner" />
 </div>
+
+<h1 align="center">Hi 👋, I'm Ganna Khaled</h1>
+<h3 align="center">
+AI Engineer | React Front-End Developer <br/>
+Machine Learning • Deep Learning • Computer Vision
+</h3>
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#sparkles-projects">Projects</a> &#xa0; | &#xa0;
-  <a href="#mailbox-contact">Contact</a>
+  <img src="https://komarev.com/ghpvc/?username=gannakhaled&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-## :dart: About ##
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#tech">Tech Stack</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#contact">Contact</a>
+</p>
 
-I am **Ganna Khaled**, an enthusiastic **AI Engineer** with strong experience in  
-**Machine Learning, Deep Learning, and Computer Vision**, in addition to building modern and responsive user interfaces using **React**.
+<hr/>
 
-I am passionate about transforming ideas into real-world applications by combining **intelligent AI models** with **clean, scalable front-end designs**.  
-I continuously seek to improve my skills and learn new technologies in both AI and web development.
+<h2 id="about">🚀 About Me</h2>
 
-## :rocket: Main Technologies ##
+<p>
+I am <b>Ganna Khaled</b>, a passionate <b>AI Engineer</b> with hands-on experience in
+<b>Machine Learning, Deep Learning, and Computer Vision</b>, alongside strong skills
+in <b>Front-End Development using React</b>.
+</p>
 
-### 🧠 Artificial Intelligence
-- Machine Learning (Supervised & Unsupervised Learning)
-- Deep Learning (CNNs, Neural Networks)
-- Computer Vision (Image Classification, Object Detection)
-- Data Preprocessing & Model Evaluation
+<p>
+I enjoy building real-world systems that combine <b>intelligent AI models</b> with
+<b>clean, interactive user interfaces</b>.  
+Always learning, always improving, and always building impactful projects.
+</p>
 
-### 💻 Programming Languages
-- Python
-- JavaScript
-- C / C++
-- Java
+<hr/>
 
-### 🌐 Front-End Development
-- React.js
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Responsive Web Design
+<h2 id="tech">🛠️ Tech Stack</h2>
 
-### 🛠 Tools & Frameworks
-- TensorFlow / Keras
-- PyTorch (Basic)
-- OpenCV
-- NumPy, Pandas, Matplotlib
-- Git & GitHub
-- VS Code
+<h3>🧠 Artificial Intelligence</h3>
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-darkgreen?style=for-the-badge"/>
+</p>
 
-## :sparkles: Projects ##
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/OpenCV-blue?style=for-the-badge&logo=opencv"/>
+</p>
 
-- **AI & Computer Vision Projects**: Image classification and object detection systems
-- **Machine Learning Models**: Prediction and data analysis applications
-- **React Applications**: Interactive and responsive front-end projects
+<h3>🌐 Front-End</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript"/>
+</p>
 
-*(Check my repositories for full project details)*
+<h3>💻 Programming Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/Java-ed8b00?style=for-the-badge&logo=openjdk"/>
+</p>
 
-## :mailbox: Contact ##
+<hr/>
 
-- **GitHub**: Ganna Khaled  
-- **LinkedIn**: Add your LinkedIn link here  
-- **Email**: Add your email here  
+<h2 id="projects">✨ Projects</h2>
 
-<div align="center">
-  <i>Always learning. Always building. 🚀</i>
-</div>
+<ul>
+  <li><b>Computer Vision Systems</b> – Image classification & object detection</li>
+  <li><b>Machine Learning Models</b> – Prediction & data analysis projects</li>
+  <li><b>React Applications</b> – Interactive & responsive user interfaces</li>
+</ul>
 
-<a href="#top">Back to top</a>
+<p><i>Check my repositories for detailed implementations.</i></p>
+
+<hr/>
+
+<h2 id="contact">📫 Contact Me</h2>
+
+<p>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<hr/>
+
+<p align="center">
+  <b>Always learning. Always building. 🚀</b>
+</p>
+
+<a href="#top">⬆ Back to Top</a>
+
