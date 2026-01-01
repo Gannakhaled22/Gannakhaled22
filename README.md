@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Ganna Khaled</h1>
+<h1 align="center">Hi, I'm Ganna Khaled</h1>
 <h3 align="center">
 AI Engineer | React Front-End Developer <br/>
 Machine Learning • Deep Learning • Computer Vision
